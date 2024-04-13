@@ -1,0 +1,30 @@
+# ------ root_path/dataset_name ------
+root_path: 'data_path'
+prompt_path: 'prompt_path'
+
+
+# ------ Load Cache and Features ------
+#load_cache: False
+#load_pre_feat: False
+
+load_cache: True
+load_pre_feat: True
+
+
+# ------ Hyperparamters ------
+search_hp: True
+# search_hp: False
+
+search_scale: [60, 70, 70]
+search_step: [200, 50, 70]
+
+
+
+# ------ Basic Config ------
+dataset: 'oxford_flowers'
+shots: 16
+backbone: 'RN50'
+
+lr: 0.001
+augment_epoch: 10
+train_epoch: 20
