@@ -1,5 +1,3 @@
-# The Devil is in the Few Shots: Iterative Visual Knowledge Completion for Few-shot Learning
-Implement of '[The Devil is in the Few Shots: Iterative Visual Knowledge Completion for Few-shot Learning](https://arxiv.org/abs/2404.09778)'
 ## Datasets
 Follow DATASET.md to install ImageNet and other 10 datasets referring to CoOp.
 ## Running
