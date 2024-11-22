@@ -23,4 +23,4 @@ For example,
 CUDA_VISIBLE_DEVICES=0 python main.py --config configs/imagenet.yaml --model=KCLCoOp --shots=1
 ```
 ## Contact
-Please contact yaohuili@smail.nju.edu.cn or zhouqf@smail.nju.edu.cn if you have any question about this project
+Please contact zhouqf@smail.nju.edu.cn if you have any question about this project
